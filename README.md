@@ -34,4 +34,18 @@
 <p>To Start expo all you have to do is run this line</p>
 <li>expo start</li>
 <h1>Preview</h1>
-![AuthorizateScreen](https://user-images.githubusercontent.com/72722478/135751046-b71655e3-8795-4c34-89fa-fbcea86400a7.png)
+<p align="center">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/AuthorizateScreen.png" width="350" title="AuthorizateScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/loginScreen.png" width="350" title="loginScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/registerScreen.png" width="350" title="registerScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/feedScreen.png" width="350" title="feedScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/searchScreen.png" width="350" title="searchScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/profileScreen.png" width="350" title="profileScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/saveScreen.png" width="350" title="saveScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/followScreen.png" width="350" title="followScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/addPictureScreen.png" width="350" title="addPictureScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/pickImageScreen.png" width="350" title="pickImageScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/pressFollowScreen.png" width="350" title="pressFollowScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/CommentScreen.png" width="350" title="CommentScreen">
+  <img src="https://github.com/skhe55/instagram_clone/blob/master/assets/preview/CommentChangeScreen.png" width="350" title="CommentChangeScreen">
+</p>
