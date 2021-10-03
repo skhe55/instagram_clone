@@ -33,3 +33,5 @@
 <h1>Usage</h1>
 <p>To Start expo all you have to do is run this line</p>
 <li>expo start</li>
+<h1>Preview</h1>
+![AuthorizateScreen](https://user-images.githubusercontent.com/72722478/135751046-b71655e3-8795-4c34-89fa-fbcea86400a7.png)
